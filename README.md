@@ -1,3 +1,29 @@
+# wordpecker-app
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+个性化语言学习工具，结合 Duolingo 式课程与自建词表，可从书籍中添加生词。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # WordPecker App
 
 **Every word has a story.**
